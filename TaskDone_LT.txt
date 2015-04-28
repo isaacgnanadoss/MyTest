@@ -1,0 +1,8 @@
+The following are my tickets i have worked with so far.
+
+SPB-938  :[Story Point: 1]  Add Cache Control Headers to Article Images
+SPB-937  :[Story Point: 2]  Scholarship Pages for SEO (NEW DEVELOPMENT)
+LCW-1323 :[Story Point: 1]  Article title not display on article carousel
+LCW-1312 :[Story Point: 2]  Homepage_Radical Redesign Test(Theme based redirect & new design)
+LCW-1319 :[Story Point: 1]   Optimize form start call to actions on articles (BUTTON ALIGNMENT ISSUE FIXE)
+LCW-1278 :[Story Point: 0.5] 301 redirect links to infographics(CURRENTLY WORKING)
